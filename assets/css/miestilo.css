@@ -1,0 +1,40 @@
+@font-face {
+  font-family: Patua One;
+  src: url('https://fonts.googleapis.com/css2? family = Patua + One & display = swap');
+}
+
+p{
+	text-align: justify;
+}
+
+#para1 {
+text-align: center;
+color: #191970;
+font-family: Patua One;
+font-style: italic;
+font-size: 30px;
+margin: 100px 110px 100px 110px;
+}
+
+
+
+.footer-style {
+    padding-top: 30px;
+    background-color: #0C0F1C;
+}
+footer {
+  color: white;
+}
+
+footer .footer-above {
+  padding-top: 20px;
+  background-color: #2C3E50;
+}
+footer .footer-col {
+  margin-bottom: 20px;
+}
+footer .footer-below {
+  padding: 20px 0;
+  background-color: #233140;
+}
+
